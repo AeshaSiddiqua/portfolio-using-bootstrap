@@ -1,0 +1,42 @@
+.navbar-brand {
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .hero-title {
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+   
+  .text-color-main{
+          color: #035b2c ;
+
+  }
+  .img-fluid{
+    width: 1500px;
+    height: 1500px;
+    align-self: auto;
+    
+  }
+ 
+
+.about-title {
+  font-family: "Playwrite VN", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.about-description {
+  font-family: "Playwrite IS", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+ 
+.d-inline-flex{
+    color: white;
+}
+  
